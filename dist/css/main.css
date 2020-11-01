@@ -331,6 +331,10 @@
   opacity: 0.9;
 }
 
+.projects_item:hover .projects_btn {
+  opacity: 1;
+}
+
 .projects_btns {
   position: absolute;
   top: 0;
@@ -345,6 +349,17 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+}
+
+.projects_btn {
+  opacity: 0;
+  color: #000;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.projects_btn:hover {
+  color: #fff;
 }
 
 .projects .social-icons {
