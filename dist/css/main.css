@@ -402,11 +402,6 @@
 }
 
 .contact_list {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: 1fr;
-      grid-template-columns: 1fr;
-  grid-gap: 2rem;
   font-size: 1.5rem;
   margin-bottom: 2rem;
 }
