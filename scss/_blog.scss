@@ -1,7 +1,7 @@
 .blog {
     padding-bottom: 2rem;
 
-    &_blog-image {
+    &_bio-image {
         height: 50vh;
         width: 100%;
         background: 
@@ -21,7 +21,7 @@
             margin-bottom: 2rem;
         }
     }
-    &_blogs {
+    &_bio {
         width: 80%;
         text-align: center;
 
@@ -30,14 +30,14 @@
         }
     }
 
-    .jobs {
+    .blogs {
         width: 60vw;
         margin: 2rem auto 0 auto;
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 2rem;
 
-        &_job {
+        &_blog {
             background: lighten($color: #000000, $amount: 0);
             padding: 0.5rem;
             border-bottom: 5px solid $secondary-color;

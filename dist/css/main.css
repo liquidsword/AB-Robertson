@@ -473,7 +473,7 @@
   padding-bottom: 2rem;
 }
 
-.blog_blog-image {
+.blog_bio-image {
   height: 50vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/blog-1.jpg") center top;
@@ -494,20 +494,20 @@
           justify-content: flex-end;
 }
 
-.blog_blog-image p {
+.blog_bio-image p {
   margin-bottom: 2rem;
 }
 
-.blog_blogs {
+.blog_bio {
   width: 80%;
   text-align: center;
 }
 
-.blog_blogs .text-secondary {
+.blog_bio .text-secondary {
   padding-bottom: 1rem;
 }
 
-.blog .jobs {
+.blog .blogs {
   width: 60vw;
   margin: 2rem auto 0 auto;
   display: -ms-grid;
@@ -517,17 +517,17 @@
   grid-gap: 2rem;
 }
 
-.blog .jobs_job {
+.blog .blogs_blog {
   background: black;
   padding: 0.5rem;
   border-bottom: 5px solid #ff652f;
 }
 
-.blog .jobs_job h2, .blog .jobs_job h3 {
+.blog .blogs_blog h2, .blog .blogs_blog h3 {
   margin: 0.5rem 0;
 }
 
-.blog .jobs_job h6 {
+.blog .blogs_blog h6 {
   margin: 0.3rem, 0;
 }
 
