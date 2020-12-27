@@ -518,9 +518,12 @@
 }
 
 .blog .blogs_blog {
-  background: black;
   padding: 0.5rem;
   border-bottom: 5px solid #ff652f;
+}
+
+.blog .blogs_blog img {
+  width: 100%;
 }
 
 .blog .blogs_blog h2, .blog .blogs_blog h3 {

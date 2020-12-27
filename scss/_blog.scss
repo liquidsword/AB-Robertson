@@ -38,10 +38,13 @@
         grid-gap: 2rem;
 
         &_blog {
-            background: lighten($color: #000000, $amount: 0);
+            img {
+                width: 100%;
+            }
             padding: 0.5rem;
             border-bottom: 5px solid $secondary-color;
 
+            
             h2, h3 {
                 margin: 0.5rem 0;
             }
