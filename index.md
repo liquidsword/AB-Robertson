@@ -26,12 +26,12 @@
                 </li>
                 <li class="menu-nav_item">
                     <a href="blog.html" class="menu-nav_link">
-                        My Blog
+                        Blog
                     </a>
                 </li>
                 <li class="menu-nav_item">
                     <a href="projects.html" class="menu-nav_link">
-                        My Projects
+                        Projects
                     </a>
                 </li>
                 <li class="menu-nav_item">
